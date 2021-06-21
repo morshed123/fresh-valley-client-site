@@ -1,0 +1,10 @@
+.checkout-btn button{
+    box-shadow: none;
+    border-radius: 5px;
+    background-color: pink;
+}
+
+.container-table-text tbody, tfoot{
+   text-align: center;
+}
+
